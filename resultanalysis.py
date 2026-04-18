@@ -32,7 +32,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.title("🎓📊 Student Performance Dashboard")
+st.title("🎓📊 Student Result Analysis Dashboard")
 
 data = {
     "Student": ["Aman","Riya","Karan","Neha","Rahul","Simran","Arjun","Priya"],
