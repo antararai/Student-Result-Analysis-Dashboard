@@ -1,4 +1,4 @@
-**# Student-Performance-Dashboard:**
+**# Student-Result-Analysis-Dashboard:**
 This project is an interactive dashboard built using Python and Streamlit to analyze student academic performance.
 
 **Features:**
